@@ -1,0 +1,14 @@
+.details{
+    display: flex;
+    flex-direction: column;
+    background-color: darkgreen;
+    width: 40%;
+    color: white;
+    padding:10px;
+    margin:100px auto;
+}
+
+.details >a{
+    color:white;
+    
+}

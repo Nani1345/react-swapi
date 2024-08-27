@@ -1,0 +1,24 @@
+.starship-list {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.link-container {
+    padding: 40px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: forestgreen;
+    width: 200px;
+}
+
+.link-container a {
+    text-decoration: none;
+    color:white;
+    font-size: 30px;
+}
+
+.link-container a:hover {
+    color: #007bff;
+}
